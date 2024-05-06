@@ -20,7 +20,7 @@ git clone \<repository-url\>
 Navigate to the project directory:
 
 ```bash
-cd password-generator
+cd simple-password-generator
 ```
 
 Build the project:
